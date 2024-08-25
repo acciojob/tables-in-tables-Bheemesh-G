@@ -1,2 +1,51 @@
 
 /* Your CSS Code here. */
+
+.mainTable{
+	border: 1px solid black;
+}
+
+.Row1Column1{
+	border: 1px solid black;
+}
+.Row1Column1Table{
+	border: 1px solid black;
+}
+.Row1Column1Table th{
+	border: 1px solid black;
+}
+.Row1Column1Table td{
+	border: 1px solid black;
+}
+.Row1Column2{
+	border: 1px solid black;
+}
+.Row1Column2 table{
+	border: 1px solid black;
+}
+.Row1Column2 th{
+	border: 1px solid black;
+}
+.Row1Column2 td{
+	border: 1px solid black;
+}
+.Row2Column1{
+	border : 1px solid black;
+}
+.Row2Column1Table th{
+	border : 1px solid black;
+}
+.Row2Column1Table td{
+	border : 1px solid black;
+}
+.Row2Column2{
+	border : 1px solid black;
+}
+.Row2Column2Table th{
+	border : 1px solid black;
+}
+.Row2Column2Table td{
+	border : 1px solid black;
+}
+
+
